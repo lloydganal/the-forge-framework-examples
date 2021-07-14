@@ -1,2 +1,3 @@
-# the-forge-framework-examples
-The-Forge Framework Examples
+# The-Forge Framework Examples
+
+Personal project used to familiarize my self with The Forge Framework 
